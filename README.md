@@ -31,7 +31,8 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 - DAX calculations for YTD, LY, and growth %
 - Time intelligence using a custom date table
 - Drill-downs, tooltips, and slicer interactivity
-   [Download Sales Performance Dashboard (.pbix)](Sales%20Performance%20Dashboard.pbix?raw=true)
+
+ [Download Sales Performance Dashboard (.pbix)](Sales%20Performance%20Dashboard.pbix?raw=true)
 
 ![Sales Performance Dashboard Preview](Preview-Sales%20Performance%20Dashboard.png)
 
