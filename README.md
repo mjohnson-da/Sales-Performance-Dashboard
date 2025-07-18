@@ -34,7 +34,7 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 
   
   ---
-![Dashboard Preview](images/hr-attrition-preview.png)
+![Dashboard Preview](Preview-Sales Performance Dashboard.jpg)
 - ---
 
 ## 👤 Author
