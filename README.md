@@ -1,4 +1,11 @@
-# 📊 Sales Performance Dashboard (Sample Superstore Dataset)
+# 📊 Sales Performance Dashboard
+
+![Sales Performance Dashboard Preview](Preview-Sales%20Performance%20Dashboard.png)
+
+📥 [Download Sales Performance Dashboard (.pbix)](Sales%20Performance%20Dashboard.pbix?raw=true)  
+Requires Power BI Desktop to open.
+
+This interactive dashboard analyzes sales, profit, and discount trends across product categories, customer segments, and regions to uncover performance drivers and profit optimization opportunities.
 
 **Tools:** Power BI Desktop  
 **Dataset:** Sample Superstore (Orders)
@@ -31,11 +38,6 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 - DAX calculations for YTD, LY, and growth %
 - Time intelligence using a custom date table
 - Drill-downs, tooltips, and slicer interactivity
-
- [Download Sales Performance Dashboard (.pbix)](Sales%20Performance%20Dashboard.pbix?raw=true)
-
-![Sales Performance Dashboard Preview](Preview-Sales%20Performance%20Dashboard.png)
-
 
 - ---
 
