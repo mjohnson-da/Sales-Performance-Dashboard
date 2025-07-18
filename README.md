@@ -32,7 +32,8 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 - Time intelligence using a custom date table
 - Drill-downs, tooltips, and slicer interactivity
 
- (![Dashboard Preview](Preview-Sales Performance Dashboard.png))
+![Sales Performance Dashboard Preview](Preview-Sales%20Performance%20Dashboard.png)
+
 
 - ---
 
