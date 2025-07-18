@@ -33,8 +33,7 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 - Drill-downs, tooltips, and slicer interactivity
 
   
-  ---
-![Dashboard Preview](Preview-Sales Performance Dashboard.jpg)
+
 - ---
 
 ## 👤 Author
