@@ -32,6 +32,9 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 - Time intelligence using a custom date table
 - Drill-downs, tooltips, and slicer interactivity
 
+  
+  ---
+![Dashboard Preview](images/hr-attrition-preview.png)
 - ---
 
 ## 👤 Author
