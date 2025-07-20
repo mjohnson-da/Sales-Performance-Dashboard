@@ -45,5 +45,5 @@ This interactive Power BI dashboard analyzes sales performance across time, regi
 **[Morgan Johnson]**  
 Conscientious and inquisitive data analyst with strong skills in Power BI, DAX, storytelling, and HR data insights.
 
-📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio](https://data-analysis-by-morgan.super.site/)
+📎 [LinkedIn](https://www.linkedin.com/in/morgan-johnson-8218b2177/) | 📂 [Portfolio](https://data-analysis-by-morgan.notion.site/Portfolio-232658778d2e80a5a909c8f554373d0b)
 
